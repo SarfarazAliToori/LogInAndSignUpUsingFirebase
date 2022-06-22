@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693967145594",
+    "project_id": "login-and-signup-in-firebase",
+    "storage_bucket": "login-and-signup-in-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693967145594:android:214d33236aeebf5b86c9c3",
+        "android_client_info": {
+          "package_name": "com.wordpress.safbk.loginandsignupusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693967145594-q5bcehlo3m0m9qo6ibf7h7ba9pj9g9cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeejAK-gt_JSZxY4TNilXCv5yrAIqz0vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693967145594-q5bcehlo3m0m9qo6ibf7h7ba9pj9g9cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
